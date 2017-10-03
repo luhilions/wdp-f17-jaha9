@@ -16,8 +16,9 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-<th colspan="2">Telephone</th>
+    <th colspan="2">Name</th>
     <th>Artist</th> 
+    <th rowspan="2">Genre 1</th>
     <th>Rating</th>
   </tr>
   <tr>
