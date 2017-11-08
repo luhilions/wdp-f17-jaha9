@@ -1,10 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>TITLE</title>
     <style>
     .header {
       width: 100%;
@@ -59,18 +52,3 @@
       
     /* My name is Jake
     </style>
-  </head>
-  <body>
-        <div class="header">Header</div>
-        <div class="nav floatleft">Nav Menu</div>
-        <a href="project1.html">Headings and links</a><br/>
-        <a href="project10.html">Favorite animal</a><br/>
-        <a href="project8.html">Favorite Songs</a><br/>
-        <a href="project9.html">weather</a><br/>
-    </div>
-    <div class="sidebar floatright">Sidebar</div>
-        <div class="main"><h1>Main Content</h1></div>
-        <div class="clearfloat"></div>
-        <div class="footer">Footer</div>
-  </body>
-</html>
