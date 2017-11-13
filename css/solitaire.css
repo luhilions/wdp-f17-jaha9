@@ -1,60 +1,40 @@
-<style>
 .felt {
  width: 300px;
  height: 300px;
- background-image: url('../img/felt.jpg');
+ background-image: url('../images/felt.jpg');
  background-color: green;
  position: relative;
- top: -25px;
+ top: 25px;
  left: 25px;
 }
 .card {
- width: 300px;
- height: 300px;
- background-image: url('../img/card.png');
- background-color: green;
- position: relative;
- top: -50px;
- left: -25px;
+  position: absolute;
+  top: 40px;
+  left: 110px;
+  z-index: 1;
 }
 .kingspades {
- width: 300px;
- height: 300px;
- background-image: url('../img/ kingspades.png');
- background-color: green;
  position: relative;
  top: -75px;
  left: -150px;
 }
 .queenhearts {
- width: 300px;
- height: 300px;
- background-image: url('../ queenhearts.png,');
- background-color: green;
  position: relative;
  top: -100px;
  left: -150px;
 }
 .jackclubs {
- width: 300px;
- height: 300px;
- background-image: url('../img/ jackclubs.png');
- background-color: green;
  position: relative;
  top: -125px;
  left: -150;
 }
 .tendiamonds {
- width: 300px;
- height: 300px;
- background-image: url('../img/ tendiamonds.png');
- background-color: green;
  position: relative;
  top: -150px;
  left: -150px;
 }
 .gradient {
- background-image: url('../img/gradient.jpg');
+ background-image: url('../images/gradient.jpg');
  background-repeat: repeat-x;
  background-color: gray;
 }
