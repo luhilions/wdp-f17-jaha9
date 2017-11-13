@@ -5,7 +5,7 @@
  background-image: url('../img/felt.jpg');
  background-color: green;
  position: relative;
- top: 25px;
+ top: -25px;
  left: 25px;
 }
 .card {
@@ -14,7 +14,7 @@
  background-image: url('../img/card.png');
  background-color: green;
  position: relative;
- top: 50px;
+ top: -50px;
  left: -25px;
 }
 .kingspades {
@@ -23,7 +23,7 @@
  background-image: url('../img/ kingspades.png');
  background-color: green;
  position: relative;
- top: 75px;
+ top: -75px;
  left: -150px;
 }
 .queenhearts {
@@ -32,7 +32,7 @@
  background-image: url('../ queenhearts.png,');
  background-color: green;
  position: relative;
- top: 100px;
+ top: -100px;
  left: -150px;
 }
 .jackclubs {
@@ -41,7 +41,7 @@
  background-image: url('../img/ jackclubs.png');
  background-color: green;
  position: relative;
- top: 125px;
+ top: -125px;
  left: -150;
 }
 .tendiamonds {
@@ -50,7 +50,7 @@
  background-image: url('../img/ tendiamonds.png');
  background-color: green;
  position: relative;
- top: 250px;
+ top: -150px;
  left: -150px;
 }
 .gradient {
