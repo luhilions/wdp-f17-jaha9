@@ -15,23 +15,23 @@
 }
 .kingspades {
  position: relative;
- top: -75px;
- left: -150px;
+ top: 40px;
+ left: 110px;
 }
 .queenhearts {
  position: relative;
- top: -100px;
- left: -150px;
+ top: 40px;
+ left: 110px;
 }
 .jackclubs {
  position: relative;
- top: -125px;
- left: -150;
+ top: 40px;
+ left: 110;
 }
 .tendiamonds {
  position: relative;
- top: -150px;
- left: -150px;
+ top: 40px;
+ left: 110px;
 }
 .gradient {
  background-image: url('../images/gradient.jpg');
