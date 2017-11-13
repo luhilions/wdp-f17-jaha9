@@ -15,7 +15,7 @@
  background-color: green;
  position: relative;
  top: 25px;
- left: 25px;
+ left: -25px;
 }
 .kingspades {
  width: 300px;
@@ -24,7 +24,7 @@
  background-color: green;
  position: relative;
  top: 25px;
- left: 25px;
+ left: -50px;
 }
 .queenhearts {
  width: 300px;
@@ -33,7 +33,7 @@
  background-color: green;
  position: relative;
  top: 25px;
- left: 25px;
+ left: -75px;
 }
 .jackclubs {
  width: 300px;
@@ -42,7 +42,7 @@
  background-color: green;
  position: relative;
  top: 25px;
- left: 25px;
+ left: -100;
 }
 .tendiamonds {
  width: 300px;
