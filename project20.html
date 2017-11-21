@@ -3,7 +3,7 @@
 <body>
 
 <form method="post" action="process.php">
-Full Name: <br> <input type="text" size="20" name="firstname" /><br />
+Full Name: <br> <input type="text" size="20" name="Full" /><br />
 <form method="post" action="process.php">
 Year:<br />
 <input type="radio" name="Freshman" value="Freshman" />Freshman<br />
@@ -16,8 +16,19 @@ Activities:<br />
 <input type="checkbox" name="Music" value="Music" />Music<br />
 <input type="checkbox" name="Theater" value="Theater" />Theater<br />
 <input type="checkbox" name="Other" value="Other" />Other<br />
+<form method="post" action="process.php">
+Quarter:<br />
+<select name="language">
+<option value="Fall">Fall</option>
+<option value="Spring">Spring</option>
+<option value="Summer">Summer</option>
+<option value="winter">winter</option>
+Tell us some more about yourself:<br />
+<textarea name="more" rows="8" cols="30">
+Type here.
+</textarea>
+</textarea>
 </form>
-</form>
+</select>
 </body>
 </html>
-
